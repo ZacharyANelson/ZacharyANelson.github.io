@@ -6,6 +6,8 @@ body {
 }
 header {
   padding: 20px 0;
+  background-image: url("https://snappygoat.com/b/ee07c30c81af39c5399fc293f713d4feb2379ded");
+  background-size: cover;
 }
 header .row,
 footer .row {
