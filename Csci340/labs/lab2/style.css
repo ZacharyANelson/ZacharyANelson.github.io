@@ -5,8 +5,9 @@ body {
 	width: 100%;
 }
 header {
-  padding: 20px 0;
-  background-image: url("https://snappygoat.com/b/ee07c30c81af39c5399fc293f713d4feb2379ded");
+  padding: 250px 0;
+  margin: 30px;
+  background-image: url("https://free-images.com/lg/ad5f/spiders_spiderwebs.jpg");
   background-size: cover;
 }
 header .row,
