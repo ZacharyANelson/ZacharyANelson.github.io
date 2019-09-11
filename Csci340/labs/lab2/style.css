@@ -1,0 +1,32 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+h1 {
+	font-size: 32px;
+}
+
+h2 {
+	font-size: 56px;
+}
+
+
+.Class1 {
+	padding: 250px 0;
+	margin: 30px;
+  background-image: url("https://snappygoat.com/b/ee07c30c81af39c5399fc293f713d4feb2379ded");
+  background-size: cover;
+  color: #ffffff;
+}
+
+
+p {
+  font-size: 2rem;
+}
+
+#footer {
+  font-size: 0.75rem;
+}
