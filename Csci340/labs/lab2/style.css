@@ -53,8 +53,11 @@ h2 {
 
 
 p {
+  padding: 10px 0;
+	margin: 10px;
   font-size: 2rem;
   font-family: 'Indie Flower', cursive;
+  color: #ffffff
 }
 
 #footer {
