@@ -50,7 +50,12 @@ h2 {
   background-size: cover;
   color: #ffffff;
 }
-
+.Despair {
+	background-image: url("https://free-images.com/lg/665e/worried_girl_woman_waiting.jpg");
+}
+.Explosion{
+	background-image: url("https://free-images.com/lg/f5eb/fire_explosion_danger_hot.jpg");
+}
 
 p {
   padding: 10px 0;
