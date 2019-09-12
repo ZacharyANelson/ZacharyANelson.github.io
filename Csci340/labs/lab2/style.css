@@ -43,16 +43,27 @@ h2 {
 }
 
 
-.Class1 {
+.Spiders {
 	padding: 100px 0;
 	margin: 30px;
   background-image: url("https://snappygoat.com/b/ee07c30c81af39c5399fc293f713d4feb2379ded");
+  background-size: cover;
+  color: #ffffff;
+}
+.Spiders {
+	padding: 100px 0;
+	margin: 30px;
 	background-image: url("https://free-images.com/lg/665e/worried_girl_woman_waiting.jpg");
+  background-size: cover;
+  color: #ffffff;
+}
+.explosion {
+	padding: 100px 0;
+	margin: 30px;
 	background-image: url("https://free-images.com/lg/f5eb/fire_explosion_danger_hot.jpg");
   background-size: cover;
   color: #ffffff;
 }
-
 
 p {
   padding: 10px 0;
