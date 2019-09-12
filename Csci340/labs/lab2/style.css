@@ -9,8 +9,6 @@ header {
   padding: 25px 0;
   margin: 50px;
   background-image: url("https://free-images.com/lg/ad5f/spiders_spiderwebs.jpg");
-	background-image: url("https://free-images.com/lg/665e/worried_girl_woman_waiting.jpg");
-	background-image: url("https://free-images.com/lg/f5eb/fire_explosion_danger_hot.jpg");
   background-size: cover;
 }
 header .row,
@@ -49,6 +47,8 @@ h2 {
 	padding: 100px 0;
 	margin: 30px;
   background-image: url("https://snappygoat.com/b/ee07c30c81af39c5399fc293f713d4feb2379ded");
+	background-image: url("https://free-images.com/lg/665e/worried_girl_woman_waiting.jpg");
+	background-image: url("https://free-images.com/lg/f5eb/fire_explosion_danger_hot.jpg");
   background-size: cover;
   color: #ffffff;
 }
