@@ -63,7 +63,10 @@ h2 {
 	padding: 100px 0;
 	margin: 30px;
 	background-image: url("https://free-images.com/lg/f5eb/fire_explosion_danger_hot.jpg");
-	color: #ffffff;
+	color: #000000;
+}
+.Explosin p {
+	color: #000000;
 }
 
 p {
