@@ -41,7 +41,9 @@ h1 {
 h2 {
 	font-size: 56px;
 }
-
+ul {
+	font-family: 'Chilanka', cursive;
+}
 
 .spiders {
 	padding: 100px 0;
