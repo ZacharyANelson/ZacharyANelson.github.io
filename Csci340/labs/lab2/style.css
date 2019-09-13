@@ -48,25 +48,25 @@ h2 {
 	margin: 30px;
   background-image: url("https://snappygoat.com/b/ee07c30c81af39c5399fc293f713d4feb2379ded");
   background-size: cover;
-  color: #ffffff;
+  color: #B52304;
 }
 .Despair {
 	padding: 100px 0;
 	margin: 30px;
 	background-image: url("https://free-images.com/lg/665e/worried_girl_woman_waiting.jpg");
-	color: #000000;
+	color: #B52304;
 }
 .Despair p {
-	color: #000000;
+	color: #B52304;
 }
 .Explosion{
 	padding: 100px 0;
 	margin: 30px;
 	background-image: url("https://free-images.com/lg/f5eb/fire_explosion_danger_hot.jpg");
-	color: #000000;
+	color: #B52304;
 }
 .Explosin p {
-	color: #000000;
+	color: #B52304;
 }
 
 p {
@@ -74,7 +74,7 @@ p {
 	margin: 10px;
   font-size: 2rem;
   font-family: 'Indie Flower', cursive;
-  color: #ffffff
+  color: #B52304
 }
 
 #footer {
